@@ -1,7 +1,3 @@
-import { useState, useEffect } from 'react';
-import { createPortal } from 'react-dom';
-import ModalContent from './ModalContent';
-
 type Card = {
   title: string
   description: string
@@ -10,31 +6,15 @@ type Card = {
 }
 
 const GameCard = ({ title, description, imageUrl, onGameStart }: Card) => {
-  const [showModal, setShowModal] = useState(false);
-
-  useEffect(() => {
-    if (showModal) {
-      document.body.style.overflow = "hidden";
-    } else {
-      document.body.style.overflow = "";
-    }
-
-    return () => { document.body.style.overflow = ""; };
-  }, [showModal])
-  
   return (
     <>
-    <div className="card hover:bg-[#1e2d45] transition cursor-pointer" style={styles.card} onClick={() => setShowModal(true)}>
+    <div className="card hover:bg-[#1e2d45] transition cursor-pointer" style={styles.card} onClick={() => onGameStart()}>
       {imageUrl && <img src={imageUrl} alt={title} style={styles.image} />}
       <div style={styles.body}>
         <h2 style={styles.title}>{title}</h2>
         <p style={styles.text}>{description}</p>
       </div>
     </div>
-    {showModal && createPortal(<ModalContent modalTitle={title} onClose={() => setShowModal(false)} onStart={() => {
-      setShowModal(false);
-      onGameStart();
-    }} />, document.body)}
     </>
   );
 };
