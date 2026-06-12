@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import Main from './pages/Main' ;
 import Privacy from './pages/Privacy' ;
 import Terms from './pages/Terms' ;
+import NotFound from './pages/NotFound';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route path="/" element={<Main />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/terms" element={<Terms />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
 
