@@ -74,8 +74,8 @@ const LoadGame = ({ gameTitle }: Game) => {
 
     const end = currentIndex === countries.length - 1 && guess;
     const country = !end ? countries[currentIndex] : countries[countries.length - 1];
-    let finalMessage = "";
-    let finalMessageColor = "";
+    let finalMessage: string | undefined = "";
+    let finalMessageColor: string | undefined = "";
 
     const SCORE_THRESHOLDS: ScoreThreshold[] = [
     { threshold: 0.4,  color: "#EF4444",    message: "Better luck next time! 😅 Geography is tough, the flags are waiting for you to try again." },
@@ -90,8 +90,8 @@ const LoadGame = ({ gameTitle }: Game) => {
         
         const analyzedScore = SCORE_THRESHOLDS.find(s => totalScore <= s.threshold);
 
-        finalMessage = analyzedScore.message;
-        finalMessageColor = analyzedScore.color;
+        finalMessage = analyzedScore?.message;
+        finalMessageColor = analyzedScore?.color;
     }
     
     return (
