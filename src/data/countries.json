@@ -1,0 +1,2348 @@
+[
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ss.svg"
+    },
+    "name": {
+      "common": "South Sudan",
+      "official": "Republic of South Sudan"
+    },
+    "continents": [
+      null
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/jo.svg"
+    },
+    "name": {
+      "common": "Jordan",
+      "official": "Hashemite Kingdom of Jordan"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/jm.svg"
+    },
+    "name": {
+      "common": "Jamaica",
+      "official": "Jamaica"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sy.svg"
+    },
+    "name": {
+      "common": "Syria",
+      "official": "Syrian Arab Republic"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/eg.svg"
+    },
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/la.svg"
+    },
+    "name": {
+      "common": "Laos",
+      "official": "Lao People's Democratic Republic"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/pt.svg"
+    },
+    "name": {
+      "common": "Portugal",
+      "official": "Portuguese Republic"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bn.svg"
+    },
+    "name": {
+      "common": "Brunei",
+      "official": "Nation of Brunei, Abode of Peace"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ad.svg"
+    },
+    "name": {
+      "common": "Andorra",
+      "official": "Principality of Andorra"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bj.svg"
+    },
+    "name": {
+      "common": "Benin",
+      "official": "Republic of Benin"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/fi.svg"
+    },
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ae.svg"
+    },
+    "name": {
+      "common": "United Arab Emirates",
+      "official": "United Arab Emirates"
+    },
+    "continents": [
+      "Asia"
+    ],
+    "initials": ["UAE"]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mc.svg"
+    },
+    "name": {
+      "common": "Monaco",
+      "official": "Principality of Monaco"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/si.svg"
+    },
+    "name": {
+      "common": "Slovenia",
+      "official": "Republic of Slovenia"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/kp.svg"
+    },
+    "name": {
+      "common": "North Korea",
+      "official": "Democratic People's Republic of Korea"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cd.svg"
+    },
+    "name": {
+      "common": "DR Congo",
+      "official": "Democratic Republic of the Congo"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/to.svg"
+    },
+    "name": {
+      "common": "Tonga",
+      "official": "Kingdom of Tonga"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/vn.svg"
+    },
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mm.svg"
+    },
+    "name": {
+      "common": "Myanmar",
+      "official": "Republic of the Union of Myanmar"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/tn.svg"
+    },
+    "name": {
+      "common": "Tunisia",
+      "official": "Tunisian Republic"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mz.svg"
+    },
+    "name": {
+      "common": "Mozambique",
+      "official": "Republic of Mozambique"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/dm.svg"
+    },
+    "name": {
+      "common": "Dominica",
+      "official": "Commonwealth of Dominica"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bs.svg"
+    },
+    "name": {
+      "common": "Bahamas",
+      "official": "Commonwealth of the Bahamas"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/pe.svg"
+    },
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/es.svg"
+    },
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/al.svg"
+    },
+    "name": {
+      "common": "Albania",
+      "official": "Republic of Albania"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ec.svg"
+    },
+    "name": {
+      "common": "Ecuador",
+      "official": "Republic of Ecuador"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ar.svg"
+    },
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/co.svg"
+    },
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/er.svg"
+    },
+    "name": {
+      "common": "Eritrea",
+      "official": "State of Eritrea"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sr.svg"
+    },
+    "name": {
+      "common": "Suriname",
+      "official": "Republic of Suriname"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/lc.svg"
+    },
+    "name": {
+      "common": "Saint Lucia",
+      "official": "Saint Lucia"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/am.svg"
+    },
+    "name": {
+      "common": "Armenia",
+      "official": "Republic of Armenia"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/pg.svg"
+    },
+    "name": {
+      "common": "Papua New Guinea",
+      "official": "Independent State of Papua New Guinea"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/om.svg"
+    },
+    "name": {
+      "common": "Oman",
+      "official": "Sultanate of Oman"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bh.svg"
+    },
+    "name": {
+      "common": "Bahrain",
+      "official": "Kingdom of Bahrain"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sz.svg"
+    },
+    "name": {
+      "common": "Eswatini",
+      "official": "Kingdom of Eswatini"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/tg.svg"
+    },
+    "name": {
+      "common": "Togo",
+      "official": "Togolese Republic"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ch.svg"
+    },
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/dz.svg"
+    },
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/kr.svg"
+    },
+    "name": {
+      "common": "South Korea",
+      "official": "Republic of Korea"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ws.svg"
+    },
+    "name": {
+      "common": "Samoa",
+      "official": "Independent State of Samoa"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/lk.svg"
+    },
+    "name": {
+      "common": "Sri Lanka",
+      "official": "Democratic Socialist Republic of Sri Lanka"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/br.svg"
+    },
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/tl.svg"
+    },
+    "name": {
+      "common": "Timor-Leste",
+      "official": "Democratic Republic of Timor-Leste"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sv.svg"
+    },
+    "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/za.svg"
+    },
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ye.svg"
+    },
+    "name": {
+      "common": "Yemen",
+      "official": "Republic of Yemen"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/va.svg"
+    },
+    "name": {
+      "common": "Vatican City",
+      "official": "Vatican City State"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/gb.svg"
+    },
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    "continents": [
+      "Europe"
+    ],
+    "initials": ["UK"]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ki.svg"
+    },
+    "name": {
+      "common": "Kiribati",
+      "official": "Independent and Sovereign Republic of Kiribati"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/is.svg"
+    },
+    "name": {
+      "common": "Iceland",
+      "official": "Iceland"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/py.svg"
+    },
+    "name": {
+      "common": "Paraguay",
+      "official": "Republic of Paraguay"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bd.svg"
+    },
+    "name": {
+      "common": "Bangladesh",
+      "official": "People's Republic of Bangladesh"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mu.svg"
+    },
+    "name": {
+      "common": "Mauritius",
+      "official": "Republic of Mauritius"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/gh.svg"
+    },
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ly.svg"
+    },
+    "name": {
+      "common": "Libya",
+      "official": "State of Libya"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/au.svg"
+    },
+    "name": {
+      "common": "Australia",
+      "official": "Commonwealth of Australia"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/li.svg"
+    },
+    "name": {
+      "common": "Liechtenstein",
+      "official": "Principality of Liechtenstein"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bf.svg"
+    },
+    "name": {
+      "common": "Burkina Faso",
+      "official": "Burkina Faso"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cm.svg"
+    },
+    "name": {
+      "common": "Cameroon",
+      "official": "Republic of Cameroon"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ag.svg"
+    },
+    "name": {
+      "common": "Antigua and Barbuda",
+      "official": "Antigua and Barbuda"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/id.svg"
+    },
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/fr.svg"
+    },
+    "name": {
+      "common": "France",
+      "official": "French Republic"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cg.svg"
+    },
+    "name": {
+      "common": "Republic of the Congo",
+      "official": "Republic of the Congo"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sc.svg"
+    },
+    "name": {
+      "common": "Seychelles",
+      "official": "Republic of Seychelles"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/tr.svg"
+    },
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey"
+    },
+    "continents": [
+      "Europe",
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/nl.svg"
+    },
+    "name": {
+      "common": "Netherlands",
+      "official": "Kingdom of the Netherlands"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ca.svg"
+    },
+    "name": {
+      "common": "Canada",
+      "official": "Canada"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/qa.svg"
+    },
+    "name": {
+      "common": "Qatar",
+      "official": "State of Qatar"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/np.svg"
+    },
+    "name": {
+      "common": "Nepal",
+      "official": "Federal Democratic Republic of Nepal"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sd.svg"
+    },
+    "name": {
+      "common": "Sudan",
+      "official": "Republic of the Sudan"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sl.svg"
+    },
+    "name": {
+      "common": "Sierra Leone",
+      "official": "Republic of Sierra Leone"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ne.svg"
+    },
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ge.svg"
+    },
+    "name": {
+      "common": "Georgia",
+      "official": "Georgia"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/gq.svg"
+    },
+    "name": {
+      "common": "Equatorial Guinea",
+      "official": "Republic of Equatorial Guinea"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ug.svg"
+    },
+    "name": {
+      "common": "Uganda",
+      "official": "Republic of Uganda"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/lr.svg"
+    },
+    "name": {
+      "common": "Liberia",
+      "official": "Republic of Liberia"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/iq.svg"
+    },
+    "name": {
+      "common": "Iraq",
+      "official": "Republic of Iraq"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sb.svg"
+    },
+    "name": {
+      "common": "Solomon Islands",
+      "official": "Solomon Islands"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cn.svg"
+    },
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/so.svg"
+    },
+    "name": {
+      "common": "Somalia",
+      "official": "Federal Republic of Somalia"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg"
+    },
+    "name": {
+      "common": "Afghanistan",
+      "official": "Islamic Republic of Afghanistan"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/zw.svg"
+    },
+    "name": {
+      "common": "Zimbabwe",
+      "official": "Republic of Zimbabwe"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mg.svg"
+    },
+    "name": {
+      "common": "Madagascar",
+      "official": "Republic of Madagascar"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bi.svg"
+    },
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cr.svg"
+    },
+    "name": {
+      "common": "Costa Rica",
+      "official": "Republic of Costa Rica"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bw.svg"
+    },
+    "name": {
+      "common": "Botswana",
+      "official": "Republic of Botswana"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/lt.svg"
+    },
+    "name": {
+      "common": "Lithuania",
+      "official": "Republic of Lithuania"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mw.svg"
+    },
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/et.svg"
+    },
+    "name": {
+      "common": "Ethiopia",
+      "official": "Federal Democratic Republic of Ethiopia"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/gw.svg"
+    },
+    "name": {
+      "common": "Guinea-Bissau",
+      "official": "Republic of Guinea-Bissau"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cf.svg"
+    },
+    "name": {
+      "common": "Central African Republic",
+      "official": "Central African Republic"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/do.svg"
+    },
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ga.svg"
+    },
+    "name": {
+      "common": "Gabon",
+      "official": "Gabonese Republic"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sk.svg"
+    },
+    "name": {
+      "common": "Slovakia",
+      "official": "Slovak Republic"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/il.svg"
+    },
+    "name": {
+      "common": "Israel",
+      "official": "State of Israel"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ru.svg"
+    },
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation"
+    },
+    "continents": [
+      "Europe",
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cv.svg"
+    },
+    "name": {
+      "common": "Cape Verde",
+      "official": "Republic of Cabo Verde"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bo.svg"
+    },
+    "name": {
+      "common": "Bolivia",
+      "official": "Plurinational State of Bolivia"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ir.svg"
+    },
+    "name": {
+      "common": "Iran",
+      "official": "Islamic Republic of Iran"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/gr.svg"
+    },
+    "name": {
+      "common": "Greece",
+      "official": "Hellenic Republic"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cy.svg"
+    },
+    "name": {
+      "common": "Cyprus",
+      "official": "Republic of Cyprus"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/jp.svg"
+    },
+    "name": {
+      "common": "Japan",
+      "official": "Japan"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/td.svg"
+    },
+    "name": {
+      "common": "Chad",
+      "official": "Republic of Chad"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/rw.svg"
+    },
+    "name": {
+      "common": "Rwanda",
+      "official": "Republic of Rwanda"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ci.svg"
+    },
+    "name": {
+      "common": "Ivory Coast",
+      "official": "Republic of Côte d'Ivoire"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/st.svg"
+    },
+    "name": {
+      "common": "São Tomé and Príncipe",
+      "official": "Democratic Republic of São Tomé and Príncipe"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/uz.svg"
+    },
+    "name": {
+      "common": "Uzbekistan",
+      "official": "Republic of Uzbekistan"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/rs.svg"
+    },
+    "name": {
+      "common": "Serbia",
+      "official": "Republic of Serbia"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ml.svg"
+    },
+    "name": {
+      "common": "Mali",
+      "official": "Republic of Mali"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cl.svg"
+    },
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/lb.svg"
+    },
+    "name": {
+      "common": "Lebanon",
+      "official": "Lebanese Republic"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/se.svg"
+    },
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ba.svg"
+    },
+    "name": {
+      "common": "Bosnia and Herzegovina",
+      "official": "Bosnia and Herzegovina"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mx.svg"
+    },
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/me.svg"
+    },
+    "name": {
+      "common": "Montenegro",
+      "official": "Montenegro"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/kh.svg"
+    },
+    "name": {
+      "common": "Cambodia",
+      "official": "Kingdom of Cambodia"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ro.svg"
+    },
+    "name": {
+      "common": "Romania",
+      "official": "Romania"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bb.svg"
+    },
+    "name": {
+      "common": "Barbados",
+      "official": "Barbados"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sn.svg"
+    },
+    "name": {
+      "common": "Senegal",
+      "official": "Republic of Senegal"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/nr.svg"
+    },
+    "name": {
+      "common": "Nauru",
+      "official": "Republic of Nauru"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ie.svg"
+    },
+    "name": {
+      "common": "Ireland",
+      "official": "Republic of Ireland"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/kw.svg"
+    },
+    "name": {
+      "common": "Kuwait",
+      "official": "State of Kuwait"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/gm.svg"
+    },
+    "name": {
+      "common": "Gambia",
+      "official": "Republic of the Gambia"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/gy.svg"
+    },
+    "name": {
+      "common": "Guyana",
+      "official": "Co-operative Republic of Guyana"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/hn.svg"
+    },
+    "name": {
+      "common": "Honduras",
+      "official": "Republic of Honduras"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/tz.svg"
+    },
+    "name": {
+      "common": "Tanzania",
+      "official": "United Republic of Tanzania"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mr.svg"
+    },
+    "name": {
+      "common": "Mauritania",
+      "official": "Islamic Republic of Mauritania"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/hr.svg"
+    },
+    "name": {
+      "common": "Croatia",
+      "official": "Republic of Croatia"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/uy.svg"
+    },
+    "name": {
+      "common": "Uruguay",
+      "official": "Oriental Republic of Uruguay"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/hu.svg"
+    },
+    "name": {
+      "common": "Hungary",
+      "official": "Hungary"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/my.svg"
+    },
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ng.svg"
+    },
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/vc.svg"
+    },
+    "name": {
+      "common": "Saint Vincent and the Grenadines",
+      "official": "Saint Vincent and the Grenadines"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/kz.svg"
+    },
+    "name": {
+      "common": "Kazakhstan",
+      "official": "Republic of Kazakhstan"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/tm.svg"
+    },
+    "name": {
+      "common": "Turkmenistan",
+      "official": "Turkmenistan"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/pl.svg"
+    },
+    "name": {
+      "common": "Poland",
+      "official": "Republic of Poland"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mt.svg"
+    },
+    "name": {
+      "common": "Malta",
+      "official": "Republic of Malta"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/km.svg"
+    },
+    "name": {
+      "common": "Comoros",
+      "official": "Union of the Comoros"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/de.svg"
+    },
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ma.svg"
+    },
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/xk.svg"
+    },
+    "name": {
+      "common": "Kosovo",
+      "official": "Republic of Kosovo"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/gd.svg"
+    },
+    "name": {
+      "common": "Grenada",
+      "official": "Grenada"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mv.svg"
+    },
+    "name": {
+      "common": "Maldives",
+      "official": "Republic of the Maldives"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/tj.svg"
+    },
+    "name": {
+      "common": "Tajikistan",
+      "official": "Republic of Tajikistan"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/vu.svg"
+    },
+    "name": {
+      "common": "Vanuatu",
+      "official": "Republic of Vanuatu"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sa.svg"
+    },
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/na.svg"
+    },
+    "name": {
+      "common": "Namibia",
+      "official": "Republic of Namibia"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/th.svg"
+    },
+    "name": {
+      "common": "Thailand",
+      "official": "Kingdom of Thailand"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ve.svg"
+    },
+    "name": {
+      "common": "Venezuela",
+      "official": "Bolivarian Republic of Venezuela"
+    },
+    "continents": [
+      "South America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/in.svg"
+    },
+    "name": {
+      "common": "India",
+      "official": "Republic of India"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cu.svg"
+    },
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/dj.svg"
+    },
+    "name": {
+      "common": "Djibouti",
+      "official": "Republic of Djibouti"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/gn.svg"
+    },
+    "name": {
+      "common": "Guinea",
+      "official": "Republic of Guinea"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/gt.svg"
+    },
+    "name": {
+      "common": "Guatemala",
+      "official": "Republic of Guatemala"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/tt.svg"
+    },
+    "name": {
+      "common": "Trinidad and Tobago",
+      "official": "Republic of Trinidad and Tobago"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ua.svg"
+    },
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/us.svg"
+    },
+    "name": {
+      "common": "United States",
+      "official": "United States of America"
+    },
+    "continents": [
+      "North America"
+    ],
+    "initials": ["US"]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ee.svg"
+    },
+    "name": {
+      "common": "Estonia",
+      "official": "Republic of Estonia"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/pk.svg"
+    },
+    "name": {
+      "common": "Pakistan",
+      "official": "Islamic Republic of Pakistan"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sm.svg"
+    },
+    "name": {
+      "common": "San Marino",
+      "official": "Republic of San Marino"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/nz.svg"
+    },
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/dk.svg"
+    },
+    "name": {
+      "common": "Denmark",
+      "official": "Kingdom of Denmark"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/zm.svg"
+    },
+    "name": {
+      "common": "Zambia",
+      "official": "Republic of Zambia"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/it.svg"
+    },
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mk.svg"
+    },
+    "name": {
+      "common": "North Macedonia",
+      "official": "Republic of North Macedonia"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/tv.svg"
+    },
+    "name": {
+      "common": "Tuvalu",
+      "official": "Tuvalu"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/lv.svg"
+    },
+    "name": {
+      "common": "Latvia",
+      "official": "Republic of Latvia"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bt.svg"
+    },
+    "name": {
+      "common": "Bhutan",
+      "official": "Kingdom of Bhutan"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/md.svg"
+    },
+    "name": {
+      "common": "Moldova",
+      "official": "Republic of Moldova"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mh.svg"
+    },
+    "name": {
+      "common": "Marshall Islands",
+      "official": "Republic of the Marshall Islands"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/at.svg"
+    },
+    "name": {
+      "common": "Austria",
+      "official": "Republic of Austria"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bz.svg"
+    },
+    "name": {
+      "common": "Belize",
+      "official": "Belize"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/pw.svg"
+    },
+    "name": {
+      "common": "Palau",
+      "official": "Republic of Palau"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ke.svg"
+    },
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ph.svg"
+    },
+    "name": {
+      "common": "Philippines",
+      "official": "Republic of the Philippines"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/by.svg"
+    },
+    "name": {
+      "common": "Belarus",
+      "official": "Republic of Belarus"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/kg.svg"
+    },
+    "name": {
+      "common": "Kyrgyzstan",
+      "official": "Kyrgyz Republic"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/pa.svg"
+    },
+    "name": {
+      "common": "Panama",
+      "official": "Republic of Panama"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/kn.svg"
+    },
+    "name": {
+      "common": "Saint Kitts and Nevis",
+      "official": "Federation of Saint Christopher and Nevis"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/bg.svg"
+    },
+    "name": {
+      "common": "Bulgaria",
+      "official": "Republic of Bulgaria"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ht.svg"
+    },
+    "name": {
+      "common": "Haiti",
+      "official": "Republic of Haiti"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/az.svg"
+    },
+    "name": {
+      "common": "Azerbaijan",
+      "official": "Republic of Azerbaijan"
+    },
+    "continents": [
+      "Europe",
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/fm.svg"
+    },
+    "name": {
+      "common": "Micronesia",
+      "official": "Federated States of Micronesia"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/be.svg"
+    },
+    "name": {
+      "common": "Belgium",
+      "official": "Kingdom of Belgium"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/mn.svg"
+    },
+    "name": {
+      "common": "Mongolia",
+      "official": "Mongolia"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/sg.svg"
+    },
+    "name": {
+      "common": "Singapore",
+      "official": "Republic of Singapore"
+    },
+    "continents": [
+      "Asia"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ao.svg"
+    },
+    "name": {
+      "common": "Angola",
+      "official": "Republic of Angola"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/lu.svg"
+    },
+    "name": {
+      "common": "Luxembourg",
+      "official": "Grand Duchy of Luxembourg"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/fj.svg"
+    },
+    "name": {
+      "common": "Fiji",
+      "official": "Republic of Fiji"
+    },
+    "continents": [
+      "Oceania"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/no.svg"
+    },
+    "name": {
+      "common": "Norway",
+      "official": "Kingdom of Norway"
+    },
+    "continents": [
+      "Europe"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ni.svg"
+    },
+    "name": {
+      "common": "Nicaragua",
+      "official": "Republic of Nicaragua"
+    },
+    "continents": [
+      "North America"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/ls.svg"
+    },
+    "name": {
+      "common": "Lesotho",
+      "official": "Kingdom of Lesotho"
+    },
+    "continents": [
+      "Africa"
+    ]
+  },
+  {
+    "flags": {
+      "svg": "https://flagcdn.com/cz.svg"
+    },
+    "name": {
+      "common": "Czechia",
+      "official": "Czech Republic"
+    },
+    "continents": [
+      "Europe"
+    ]
+  }
+]

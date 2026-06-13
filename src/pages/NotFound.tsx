@@ -1,4 +1,4 @@
-import { Helmet } from "react-helmet"; // 1. Uvezi Helmet
+import { Helmet } from "react-helmet";
 import { useNavigate } from "react-router-dom";
 import not_found from "../images/404_flag.jpg";
 import GlobalButton from "../components/GlobalButton";

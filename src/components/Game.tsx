@@ -25,16 +25,15 @@ const LoadGame = ({ gameTitle }: Game) => {
     const [guess, setGuess] = useState(false);
 
     useEffect(() => {
-        getAllCountries(gameTitle).then((data) => {
-            setCountries(data.sort(() => Math.random() - 0.5));
-        })
+        setCountries(getAllCountries(gameTitle).sort(() => Math.random() - 0.5));
     }, [gameTitle]);
 
     const handleSubmit = (e: any) => {
         e.preventDefault();
 
         if (currentInput.trim().toLowerCase() === country.name.common.trim().toLowerCase() || 
-        currentInput.trim().toLowerCase() === country.name.official.trim().toLowerCase()) {
+        currentInput.trim().toLowerCase() === country.name.official.trim().toLowerCase() ||
+        country.initials?.includes(currentInput.trim().toUpperCase())) {
             setScore(prevScore => prevScore + 1);
             setMessage(`Correct! This is the flag of ${country.name.common}`);
             setMessageColor("#10B981");
@@ -69,6 +68,8 @@ const LoadGame = ({ gameTitle }: Game) => {
         setMessage("");
         setCurrentInput("");
     }
+
+    console.log(countries);
 
     if (countries.length === 0) return <span className="loading"></span>
 

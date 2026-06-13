@@ -1,3 +1,5 @@
+import { Helmet } from "react-helmet";
+
 const Terms = () => {
     return (
         <div style={{ 
@@ -8,6 +10,11 @@ const Terms = () => {
             textAlign: 'left',
             lineHeight: '1.6'
         }}>
+
+            <Helmet>
+                <title>Terms & Conditions | CanIFlag?</title>
+            </Helmet>
+
             <h1 style={{ color: '#fff', borderBottom: '1px solid #333', paddingBottom: '10px' }}>Terms and Conditions for CanI<span className="text-red-400">Flag</span><span className="text-yellow-400">?</span></h1>
             <p style={{ color: '#888', fontSize: '0.9rem' }}>Last updated: June 2026</p>
             

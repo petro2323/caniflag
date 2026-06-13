@@ -1,17 +1,20 @@
 import type { Country } from "../types/country";
+import countriesData from "../data/countries.json";
 
-const BASE_URL = "https://restcountries.com/v3.1";
+// const BASE_URL = "https://restcountries.com/v3.1";
 
-const FIELDS = 'name,flags,region,subregion,continents,capital,population,languages,currencies';
+// const FIELDS = 'name,flags,region,subregion,continents,capital,population,languages,currencies';
 
-export const getAllCountries = async (gameType: string): Promise<Country[]> => {
-    const response = await fetch(`${BASE_URL}/independent?status=true&fields=${FIELDS}`);
+const countries = countriesData as Country[];
 
-    if (!response.ok) throw new Error("Failed to fetch countries");
+export const getAllCountries = (gameType: string): Country[] => {
+    // const response = await fetch(`${BASE_URL}/independent?status=true&fields=${FIELDS}`);
 
-    const data: Country[] = await response.json();
+    // if (!response.ok) throw new Error("Failed to fetch countries");
 
-    if (gameType !== "World") return data.filter(c => c.continents.includes(gameType));
+    // const data: Country[] = await response.json();
 
-    return data;
+    if (gameType !== "World") return countries.filter(c => c.continents.includes(gameType));
+
+    return countries;
 }

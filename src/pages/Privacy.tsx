@@ -1,3 +1,5 @@
+import { Helmet } from "react-helmet";
+
 const Privacy = () => {
     return (
         <div style={{ 
@@ -8,6 +10,10 @@ const Privacy = () => {
             textAlign: 'left',
             lineHeight: '1.6'
         }}>
+            <Helmet>
+                <title>Privacy Policy | CanIFlag?</title>
+            </Helmet>
+            
             <h1 style={{ color: '#fff', borderBottom: '1px solid #333', paddingBottom: '10px' }}>Privacy Policy for CanI<span className="text-red-400">Flag</span><span className="text-yellow-400">?</span></h1>
             <p style={{ color: '#888', fontSize: '0.9rem' }}>Last updated: June 2026</p>
             
